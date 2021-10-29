@@ -1,0 +1,5 @@
+[client]
+database = uae
+user = admin
+password = Admin@123
+default-character-set = utf8
