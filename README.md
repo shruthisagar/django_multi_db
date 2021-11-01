@@ -10,5 +10,5 @@ Curl for GET Request
 
 Curl for POST Request
 
-    curl --location --request POST 'http://localhost:8000/user' --header 'database: uae' --header 'Content-Type: application/json' -- ata-raw '{
+    curl --location --request POST 'http://localhost:8000/user' --header 'database: uae' --header 'Content-Type: application/json' -- data-raw '{
     "name": "UAE Use through postman" }'
